@@ -1,4 +1,12 @@
-![Placeholder](img/Ready-to-Research-R-Logo-Spot.svg){align=center}
+---
+hide:
+  - navigation
+  - toc
+---
+
+<figure markdown>
+  ![Ready to Research](img/Ready-to-Research-R-Logo-Spot.svg)
+</figure>
 
 # Welcome!
 
