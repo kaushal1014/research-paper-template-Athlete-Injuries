@@ -40,11 +40,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-
-    # - scheme: default
-    #   primary: indigo
-    #   accent: orange
-
   # Enable features that are built-in to material for mkdocs
   features:
       # Create a single-page application with faster loading evident
