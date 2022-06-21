@@ -1,3 +1,7 @@
+.md-content {
+  --md-typeset-a-color: #42A5F5;
+}
+
 .md-typeset p {
     font-weight: 500;
     font-size: 0.85rem;
