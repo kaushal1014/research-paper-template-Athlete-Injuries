@@ -21,7 +21,7 @@ body:
     id: extra-feedback
     attributes:
       label: What is your feedback about the site?
-      description: What is your feedback about the Proactive Programmers web site?
+      description: What is your feedback about the Ready To Research web site?
       placeholder: Share your ideas!
       value: "My feedback about the site is that ..."
     validations:
@@ -30,7 +30,7 @@ body:
     id: what-like
     attributes:
       label: What do you like about the web site?
-      description: What features do you most like on the Proactive Programmers web site?
+      description: What features do you most like on the Ready To Research web site?
       placeholder: Tell us what you like!
       value: "I really like ..."
     validations:
@@ -39,7 +39,7 @@ body:
     id: what-do-not-like
     attributes:
       label: What do you not like about the web site?
-      description: What features do you least like on the Proactive Programmers web site?
+      description: What features do you least like on the Ready To Research web site?
       placeholder: Tell us what you dislike!
       value: "I really dislike ..."
     validations:
@@ -48,7 +48,7 @@ body:
     id: what-want-improvement
     attributes:
       label: What features would you like to see on the web site?
-      description: What features would you like to see on the Proactive Programmers web site?
+      description: What features would you like to see on the Ready To Research web site?
       placeholder: Tell us what you want!
       value: "I really would like ..."
     validations:
