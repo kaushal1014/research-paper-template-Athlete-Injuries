@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: I have a technical question or need technical support with content on Ready to Research
+    url: https://github.com/ReadyResearchers/www.readytoresearch.com/discussions
+    about: We use GitHub Discussions for all detailed communication about technical content. No invitation needed!
+  - name: I have a quick technical question about the content on Ready to Research
+    url: https://discord.gg/X69WenZqaB
+    about: If you have a quick question, then joining our Discord Chat is a great idea. Just ask for an invitation!
+  - name: I heard about Ready to Research but I don't know how to find it!
+    url: https://readytoresearch.com/
+    about: If you want to access the technical content, then visit the main web site!
+  - name: I'm unsure where to go for more help with Ready to Research
+    url: https://discord.gg/X69WenZqaB
+    about: If you are unsure where to go, then joining our Discord chat is recommended. Just ask for an invitation!
