@@ -25,7 +25,7 @@ jobs:
         # the installation of some of the Python dependencies, namely those
         # connected to weasyprint that support the automated creation of a PDF
         os: [ubuntu-latest]
-        python-version: [3.9, "3.10"]
+        python-version: [3.8, 3.9]
     env:
       # These environment variables are passed to CodeCov to identify each build
       OS: ${{ matrix.os }}
