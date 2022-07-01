@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Course Schedule
 
 ## Software Operation
