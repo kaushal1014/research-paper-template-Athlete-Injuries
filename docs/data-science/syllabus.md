@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Course Syllabus
 
 ## Computer Science 101 Fall 2021
