@@ -5,7 +5,7 @@ hide:
 
 # Course Schedule
 
-## Software Operation
+## Knowledge Gaps
 
 ### Technical Question
 
