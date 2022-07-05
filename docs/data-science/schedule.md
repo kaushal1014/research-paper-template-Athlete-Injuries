@@ -20,7 +20,7 @@ following categories:
 
 - [Problem Domains](/research-skills/problem-domains/): Determine the area of research in which you are interested
 - [Knowledge Gaps](/research-skills/knowledge-gaps/): Identify open questions in your problem domain
-- [Setting Goals](/research-skills/setting-goals/): Make a plan for filling the knowledge gap in your domain
+- [Setting Goals](/research-skills/setting-goals/): Make a plan for filling the knowledge gap in your problem domain
 
 ### Technical Skills
 
@@ -32,14 +32,15 @@ following categories:
 
 ### Research Skills
 
-- [Problem Domains](/research-skills/problem-domains/): Decide the area of research in which you are interested
-- [Knowledge Gaps](/research-skills/knowledge-gaps/): Identify open questions in your problem domain
-- [Setting Goals](/research-skills/setting-goals/): Make a plan for filling the knowledge gap in your domain
+- [Data Sources](/research-skills/data-sources/): Survey different sources for data in your problem domain
+- [Data Files](/research-skills/data-files/): Learn about how to access data stored in various formats
+- [Data Understanding](/research-skills/data-understanding/): Understand your data and attribute relationships
 
 ### Technical Skills
 
 - [Python Programming](/technical-skills/python-programming/): Download, install, and use the Python language
 - [Using Markdown](/technical-skills/using-markdown/): Learn how to use Markdown and Material for MkDocs
+- [Using MkDocs](/technical-skills/using-mkdocs/): Learn how to use Material for MkDocs
 
 ### Paper Components
 
