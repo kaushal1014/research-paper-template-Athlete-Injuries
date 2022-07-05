@@ -28,7 +28,7 @@ Good](https://bphogan.com/2021/04/28/getting-good/), author [Brian
 Hogan](https://bphogan.com/) explained deliberate practice similarly when he
 wrote that if you have a skill you want to get better at you must "practice
 every day", "get feedback", and "do more than you watch and read". Building on
-the bullet point from [Teaching Tec<!--  -->h
+the bullet point from [Teaching Tech
 Together](https://teachtogether.tech/en/index.html), these are the steps you
 should take when using deliberate practice to proactively learn new technical
 skills:
