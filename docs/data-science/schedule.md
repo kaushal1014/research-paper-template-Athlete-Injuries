@@ -16,8 +16,8 @@ following categories:
 
 ## Knowledge Gaps
 
-![Knowledge Gaps](/img/illustrate/knowledge-gap.png#only-light){width="65%"}
-![Knowledge Gaps](/img/illustrate/knowledge-gap-inverted.png#only-dark){width="65%"}
+![Knowledge Gaps](/img/illustrate/knowledge-gap.png#only-light){width="80%"}
+![Knowledge Gaps](/img/illustrate/knowledge-gap-inverted.png#only-dark){width="80%"}
 
 ### Research Skills
 
