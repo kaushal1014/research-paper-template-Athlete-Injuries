@@ -20,6 +20,10 @@
     font-size: 0.85rem;
 }
 
+.md-typeset img {
+    margin-bottom: -1em;
+}
+
 .md-typeset ul li {
     margin-bottom: 0.25em;
 }
