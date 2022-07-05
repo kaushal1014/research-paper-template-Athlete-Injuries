@@ -112,7 +112,6 @@ markdown_extensions:
 # Install plugins
 plugins:
   - search
-  - mermaid2
   # Minify the HTML source code to support faster downloads
   - minify:
       minify_html: true
