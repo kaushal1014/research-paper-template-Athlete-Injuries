@@ -188,5 +188,8 @@ nav:
     - Python Packaging: technical-skills/python-packages.md
   - Research Skills:
     - Introduction: research-skills/introduction-research-skills.md
+    - Problem Domains: research-skills/problem-domains.md
+    - Knowledge Gaps: research-skills/knowledge-gaps.md
+    - Setting Goals: research-skills/setting-goals.md
   - Paper Components:
     - Introduction: paper-components/introduction-paper-components.md
