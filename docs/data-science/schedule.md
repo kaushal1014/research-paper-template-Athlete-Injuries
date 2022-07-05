@@ -5,6 +5,15 @@ hide:
 
 # Course Schedule
 
+## Overview
+
+Each module of the course contains content in at least two of the three
+following categories:
+
+- **Research Skills**: Learn the fundamental concepts and skills in data science research
+- **Technical Skills**: Learn how to perform concrete tasks that support research in data science
+- **Paper Components**: Understand the role and creation steps for the key parts of a research paper
+
 ## Knowledge Gaps
 
 ### Research Skills
