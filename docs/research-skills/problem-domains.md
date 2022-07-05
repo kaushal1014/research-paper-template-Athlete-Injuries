@@ -20,4 +20,10 @@ more problem domains. Here are some examples for you to consider:
 - [I Quant NY by Ben Wellington](https://iquantny.tumblr.com/): Using data
   science to analyze open data and tell stories about life in New York City
 
+- [Data Analysis Blog by Julia Silge](https://juliasilge.com/): Using the R language
+  for statistical computation to analyze varied data sets
+
+- [Variance Explained by David Robinson](http://varianceexplained.org/): Using
+  the R language for statistical computation to analyze varied data sets
+
 ## Running Example
