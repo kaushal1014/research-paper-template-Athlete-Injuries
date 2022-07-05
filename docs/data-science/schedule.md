@@ -33,6 +33,9 @@ following categories:
 
 ## Data Sets
 
+![Data Sets](/img/illustrate/data-sets.png#only-light){width="80%"}
+![Data Sets](/img/illustrate/data-sets-inverted.png#only-dark){width="80%"}
+
 ### Research Skills
 
 - [Data Sources](/research-skills/data-sources/): Survey different sources for data in your problem domain
