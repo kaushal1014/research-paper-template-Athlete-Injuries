@@ -17,4 +17,7 @@ In addition to thinking about areas of your own interest, it is a good idea to
 review existing online data science blogs that have already focused on one or
 more problem domains. Here are some examples for you to consider:
 
+- [I Quant NY by Ben Wellington](https://iquantny.tumblr.com/): Using data
+  science to analyze open data and tell stories about life in New York City
+
 ## Running Example
