@@ -20,6 +20,10 @@
     font-size: 0.85rem;
 }
 
+.md-typeset ul li {
+    margin-bottom: 0.25em;
+}
+
 .md-typeset pre {
     font-weight: 600;
 }
@@ -42,7 +46,7 @@
     color: var(--md-default-fg-color);
     font-weight: 600;
     font-size: 2rem;
-    margin-top: .75em;
+    margin-top: .5em;
     margin-bottom: .25em;
     line-height: 1.0;
 }
