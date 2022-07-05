@@ -8,9 +8,9 @@ any statistician." This means that, to become a data science researcher you need
 to become comfortable both software engineering tools and statistical concepts.
 For instance, you will need to master of a wide variety of technical skills that
 include using a text editor and a terminal window and testing and debugging a
-Python program or a Jupyter notebook. Once you understand those basic skills you
-will need to learn how to apply statistical techniques in the context of a
-Python program.
+Python program or a using an interactive Jupyter notebook. Once you understand
+those basic skills you will need to learn how to understand statistical concepts
+and then apply them in the context of a Python program.
 
 Recognizing that you will need to be good at both software engineering and
 statistics can be overwhelming and ultimately lead you to wonder how you can
