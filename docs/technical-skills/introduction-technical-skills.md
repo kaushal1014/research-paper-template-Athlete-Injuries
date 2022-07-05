@@ -14,12 +14,12 @@ and then apply them in the context of a Python program.
 
 Recognizing that you will need to be good at both software engineering and
 statistics can be overwhelming and ultimately lead you to wonder how you can
-excel in both areas. Along with attempting to learn small tasks, [Greg
-Wilson](https://third-bit.com/) writes in [*Teaching Tech
-Together*](https://teachtogether.tech/en/index.html) that "what actually works
-is doing similar but subtly different things, paying attention to what works and
-what doesn't, and then changing behavior in response to that feedback to get
-cumulatively better."
+feasibly excel in both areas. Along with focusing on the mastery of individual
+tasks that are part of a bigger operation, [Greg Wilson](https://third-bit.com/)
+suggests in [*Teaching Tech Together*](https://teachtogether.tech/en/index.html)
+that "what actually works is doing similar but subtly different things, paying
+attention to what works and what doesn't, and then changing behavior in response
+to that feedback to get cumulatively better."
 
 To master the technical skills introduced on this site you need to participate
 in deliberate practice that "requires both a clear performance goal and
@@ -28,7 +28,7 @@ Good](https://bphogan.com/2021/04/28/getting-good/), author [Brian
 Hogan](https://bphogan.com/) explained deliberate practice similarly when he
 wrote that if you have a skill you want to get better at you must "practice
 every day", "get feedback", and "do more than you watch and read". Building on
-the bullet point from [Teaching Tech
+the bullet points from [Teaching Tech
 Together](https://teachtogether.tech/en/index.html), these are the steps you
 should take when using deliberate practice to proactively learn new technical
 skills:
