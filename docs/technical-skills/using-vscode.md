@@ -2,14 +2,16 @@
 
 ## Introduction
 
-The team that creates and maintains the [VS
+A data scientist will often need to explore a data set, edit a Python program,
+or run a Python program --- all tasks that you can accomplish in a text editor
+like VS Code. The team that creates and maintains the [VS
 Code](https://code.visualstudio.com/) text editor describes it as "code editing
 redefined" and points out that it is "free" and "built on open source" and that
 it "runs everywhere". Sounds nice, huh? After you have reviewed the content on
 VS Code's web site, follow the instructions there to install in on the computer
-that you will use for proactive programming. Now, go ahead and take some time to
-customize your text editor so that it uses a color scheme that matches your
-style!
+that you will use when learning more about how to conduct research in data
+science. Now, go ahead and take some time to customize your text editor so that
+it uses a color scheme that matches your style!
 
 ## Extensions
 
