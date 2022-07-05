@@ -181,9 +181,9 @@ nav:
   - Technical Skills:
     - Introduction: technical-skills/introduction-technical-skills.md
     - Using VS Code: technical-skills/using-vscode.md
-    - Using Markdown: technical-skills/using-markdown.md
     - Using Terminal: technical-skills/using-terminal.md
     - Using GitHub: technical-skills/using-git.md
+    - Using Markdown: technical-skills/using-markdown.md
     - Python Programming: technical-skills/python-programming.md
     - Python Packaging: technical-skills/python-packages.md
   - Research Skills:
