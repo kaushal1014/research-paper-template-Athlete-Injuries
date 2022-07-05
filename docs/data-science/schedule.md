@@ -25,7 +25,7 @@ following categories:
 ### Technical Skills
 
 - [Using VS Code](/technical-skills/using-vscode/): Download, install, and customize your text editor
-- [Using Terminal](/technical-skills/using-terminal/): Download, install, and customize your text editor
+- [Using Terminal](/technical-skills/using-terminal/): Download, install, and configure a command center
 - [Using GitHub](/technical-skills/using-github/): Create an account on GitHub and learn to use Git
 
 ## Data Sets
