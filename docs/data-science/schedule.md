@@ -16,6 +16,9 @@ following categories:
 
 ## Knowledge Gaps
 
+![Knowledge Gaps](/img/illustrate/knowledge-gap.svg#only-light)
+![Knowledge Gaps](/img/illustrate/knowledge-gap-inverted.svg#only-dark)
+
 ### Research Skills
 
 - [Problem Domains](/research-skills/problem-domains/): Determine the area of research in which you are interested

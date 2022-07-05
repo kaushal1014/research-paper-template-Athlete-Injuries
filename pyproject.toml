@@ -6,7 +6,6 @@ authors = ["Gregory M. Kapfhammer <gkapfham@allegheny.edu>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-mkdocs-material = "^7.2.3"
 mkdocs-mermaid2-plugin = "^0.5.2"
 mkdocs-print-site-plugin = "^2.0.0"
 mkdocs-with-pdf = "^0.9.3"
