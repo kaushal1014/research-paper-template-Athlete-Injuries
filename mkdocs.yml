@@ -184,6 +184,7 @@ nav:
     - Using GitHub: technical-skills/using-git.md
     - Python Programming: technical-skills/python-programming.md
     - Using Markdown: technical-skills/using-markdown.md
+    - Using MkDocs: technical-skills/using-mkdocs.md
     - Python Packaging: technical-skills/python-packages.md
   - Research Skills:
     - Introduction: research-skills/introduction-research-skills.md
