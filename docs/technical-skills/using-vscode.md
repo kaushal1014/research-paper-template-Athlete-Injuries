@@ -50,3 +50,6 @@ Make sure that you also explore extensions in each of the following categories!
 - [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 - [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 - [GitLens, Git Supercharged](https://gitlens.amod.io/)
+
+What are your favorite VS Code features? Or, why did you decided not to use it?
+What text editor did you pick instead?
