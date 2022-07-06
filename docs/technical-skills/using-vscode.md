@@ -1,5 +1,8 @@
 # Using VS Code
 
+![VS Code Text Editor](/img/illustrate/vscode-text-editor.svg#only-light){width="80%"}
+![VS Code Text Editor](/img/illustrate/vscode-text-editor-inverted.svg#only-dark){width="80%"}
+
 ## Introduction
 
 A data scientist will often need to explore a data set stored in one or more
