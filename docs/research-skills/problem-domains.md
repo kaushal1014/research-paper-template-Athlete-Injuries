@@ -33,4 +33,10 @@ examples for you to consider:
 ## Running Example
 
 All of the examples of data science research on this web site focus on the
-problem domain of software engineering.
+domain of software engineering. Specifically, this example project focuses on
+the GitHub repositories that are commonly used in experiments that assess the
+efficiency and effectiveness of new software engineering techniques created by
+researchers. For instance, a software engineering researcher might develop a new
+testing technique that prioritizes the test suite for a project implemented in
+Python, thereby ensuring that the tests most likely to find defects are run
+earlier in the testing process.
