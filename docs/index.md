@@ -4,8 +4,8 @@ hide:
   - toc
 ---
 
-![Data Sets](/img/ready-to-research.svg#only-light){width="60%"}
-![Data Sets](/img/ready-to-research-inverted.svg#only-dark){width="60%"}
+![Data Sets](/img/main/ready-to-research.svg#only-light){width="60%"}
+![Data Sets](/img/main/ready-to-research-inverted.svg#only-dark){width="60%"}
 
 # Welcome!
 
