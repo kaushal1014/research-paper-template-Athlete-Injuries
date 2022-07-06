@@ -2,6 +2,9 @@
 site_name: "Ready to Research"
 site_url: https://www.readytoresearch.com
 repo_url: https://github.com/ReadyResearchers/www.readytoresearch.com
+# Use any word, such as "Default" to ensure that
+# the copyright is rendered in the footer with a new partial
+copyright: Default
 
 # Definition of the theme
 theme:
