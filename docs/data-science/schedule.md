@@ -33,8 +33,10 @@ following categories:
 
 ## Data Sets
 
-![Data Sets](/img/illustrate/data-sets.png#only-light){width="80%"}
-![Data Sets](/img/illustrate/data-sets-inverted.png#only-dark){width="80%"}
+<!-- ![Data Sets](/img/illustrate/data-sets.svg){width="80%"} -->
+
+![Data Sets](/img/illustrate/data-sets.svg#only-light){width="80%"}
+![Data Sets](/img/illustrate/data-sets-inverted.svg#only-dark){width="80%"}
 
 ### Research Skills
 
