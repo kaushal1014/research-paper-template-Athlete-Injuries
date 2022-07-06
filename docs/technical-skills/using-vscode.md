@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Using VS Code
 
 ![VS Code Text Editor](/img/illustrate/vscode-text-editor.svg#only-light){width="80%"}
@@ -45,6 +50,3 @@ Make sure that you also explore extensions in each of the following categories!
 - [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 - [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 - [GitLens, Git Supercharged](https://gitlens.amod.io/)
-
-Okay, now that you have configured your text editor it is time to learn how to
-write technical documentation with VS Code!
