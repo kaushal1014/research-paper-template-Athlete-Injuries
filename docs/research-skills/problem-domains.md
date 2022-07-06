@@ -31,3 +31,6 @@ examples for you to consider:
   the R language for statistical computation to analyze varied data sets
 
 ## Running Example
+
+All of the examples of data science research on this web site focus on the
+problem domain of software engineering.
