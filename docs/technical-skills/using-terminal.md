@@ -3,7 +3,7 @@
 ## Introduction
 
 The terminal window provides an interactive and text-based prompt that allows a
-proactive programmer to type commands that complete tasks like the following
+data science researcher to type commands that complete tasks like the following
 ones:
 
 * Go into a directory
@@ -13,10 +13,10 @@ ones:
 
 If you have previously used a graphical file browser other tools for
 manipulating the files and directory on your computer, then you may be wondering
-about whether or not there is any benefit to using a terminal window! While
-proactive programmers have different preferences and ultimately adopt the tools
-that best suit their professional needs, the experiences of many suggest that
-&mdash; after becoming accustomed to a terminal window &mdash; it is possible to
+about whether or not there is any benefit to using a terminal window! While data
+scientists have different preferences and ultimately adopt the tools that best
+suit their professional needs, the experiences of many suggest that &mdash;
+after becoming accustomed to a terminal window &mdash; it is possible to
 complete common programming tasks more rapidly.
 
 Depending on your operating system, you may already have a terminal window
