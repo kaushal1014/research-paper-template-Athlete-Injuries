@@ -4,9 +4,8 @@ hide:
   - toc
 ---
 
-<figure markdown>
-  ![Ready to Research](img/Ready-to-Research-R-Logo-Spot.svg)
-</figure>
+![Data Sets](/img/ready-to-research.svg#only-light){width="60%"}
+![Data Sets](/img/ready-to-research-inverted.svg#only-dark){width="60%"}
 
 # Welcome!
 
