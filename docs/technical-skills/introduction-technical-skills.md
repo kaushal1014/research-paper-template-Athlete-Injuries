@@ -1,7 +1,7 @@
 # Introduction
 
-![Technical Skills](/img/illustrate/introduction-technical-skills.svg#only-light){width="80%"}
-![Technical Skills](/img/illustrate/introduction-technical-skills-inverted.svg#only-dark){width="80%"}
+![Technical Skills](/img/illustrate/introduction-technical-skills.svg#only-light){width="100%"}
+![Technical Skills](/img/illustrate/introduction-technical-skills-inverted.svg#only-dark){width="100%"}
 
 [Josh Wills](https://twitter.com/josh_wills) famously suggested "a data
 scientist is someone who is better at statistics than any software engineer and
