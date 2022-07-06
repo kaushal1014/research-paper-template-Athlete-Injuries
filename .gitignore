@@ -136,3 +136,6 @@ _output
 
 ### Jupyter Database ###
 .jupyterlite.doit.db
+
+### Jupyter Checkpoints ###
+.ipynb_checkpoints/
