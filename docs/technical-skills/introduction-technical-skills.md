@@ -1,5 +1,8 @@
 # Introduction
 
+![Technical Skills](/img/illustrate/introduction-technical-skills.svg#only-light){width="80%"}
+![Technical Skills](/img/illustrate/introduction-technical-skills-inverted.svg#only-dark){width="80%"}
+
 --8<-- "includes/admonitions/admonish-technical-skills.md"
 
 As Josh Wills suggested, "A data scientist is someone who is better at
