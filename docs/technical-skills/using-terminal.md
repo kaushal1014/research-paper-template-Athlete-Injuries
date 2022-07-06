@@ -5,6 +5,9 @@ hide:
 
 # Using Terminal
 
+![Terminal Window](/img/illustrate/terminal-window.svg#only-light){width="80%"}
+![Terminal Window](/img/illustrate/terminal-window-inverted.svg#only-dark){width="80%"}
+
 ## Introduction
 
 The terminal window provides an interactive and text-based prompt that allows a
