@@ -11,6 +11,14 @@
     color: #FF6E42;
 }
 
+.md-copyright {
+    color: var(--md-footer-fg-color--light);
+}
+
+.md-copyright a {
+    text-decoration: underline;
+}
+
 .md-content {
   --md-typeset-a-color: #0288D1;
 }
