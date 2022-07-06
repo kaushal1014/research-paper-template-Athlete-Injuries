@@ -3,17 +3,16 @@
 ![Technical Skills](/img/illustrate/introduction-technical-skills.svg#only-light){width="80%"}
 ![Technical Skills](/img/illustrate/introduction-technical-skills-inverted.svg#only-dark){width="80%"}
 
---8<-- "includes/admonitions/admonish-technical-skills.md"
-
-As Josh Wills suggested, "A data scientist is someone who is better at
-statistics than any software engineer and better at software engineering than
-any statistician." This means that, to become a data science researcher you need
-to become comfortable both software engineering tools and statistical concepts.
-For instance, you will need to master of a wide variety of technical skills that
-include using a text editor and a terminal window and testing and debugging a
-Python program or a using an interactive Jupyter notebook. Once you understand
-those basic skills you will need to learn how to understand statistical concepts
-and then apply them in a Python program.
+[Josh Wills](https://twitter.com/josh_wills) famously suggested "a data
+scientist is someone who is better at statistics than any software engineer and
+better at software engineering than any statistician." This quotation means
+that, to become a data science researcher you need to become comfortable both
+software engineering tools and statistical concepts. For instance, you will
+need to master of a wide variety of technical skills that include using a text
+editor and a terminal window and testing and debugging a Python program or a
+using an interactive Jupyter notebook. Once you understand those basic skills
+you will need to learn how to understand statistical concepts and then apply
+them in a Python program.
 
 Recognizing that you will need to be good at both software engineering and
 statistics can be overwhelming and ultimately lead you to wonder how you can
