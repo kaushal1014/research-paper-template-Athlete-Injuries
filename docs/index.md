@@ -4,13 +4,10 @@ hide:
   - toc
 ---
 
-<figure markdown>
-  ![Ready to Research](img/Ready-to-Research-R-Logo-Spot.svg)
-</figure>
+![Data Sets](/img/main/ready-to-research.svg#only-light){width="70%"}
+![Data Sets](/img/main/ready-to-research-inverted.svg#only-dark){width="70%"}
 
-# Welcome!
-
---8<-- "includes/admonitions/admonish-ethics.md"
+# Introduction
 
 As [Perdita Stevens](https://www.stevens-bradfield.com/~perdita/) points out in
 [*How to Write Good

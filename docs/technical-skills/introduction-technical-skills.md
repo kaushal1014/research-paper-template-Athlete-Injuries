@@ -1,34 +1,36 @@
 # Introduction
 
---8<-- "includes/admonitions/admonish-technical-skills.md"
+![Technical Skills](/img/illustrate/introduction-technical-skills.svg#only-light){width="100%"}
+![Technical Skills](/img/illustrate/introduction-technical-skills-inverted.svg#only-dark){width="100%"}
 
-To become a proactive programmer you need to become comfortable with and then a
-master of a wide variety of technical skills that include using a text editor
-and a terminal window and testing and debugging your program. When faced with an
-array of technical skills that you need to master, it is worth asking: how do I
-get good at all of these skills? While there are a lot of skills that you will
-should develop as you emerge as a proactive programmer, it is exciting to report
-that there are some proven strategies towards mastering them!
+[Josh Wills](https://twitter.com/josh_wills) famously suggested "a data
+scientist is someone who is better at statistics than any software engineer and
+better at software engineering than any statistician." This quotation means
+that, to become a data science researcher you need to become comfortable both
+software engineering tools and statistical concepts. For instance, you will
+need to master of a wide variety of technical skills that include using a text
+editor and a terminal window and testing and debugging a Python program or
+using an interactive Jupyter notebook. Once you understand those basic skills
+you will need to learn how to understand statistical concepts and then apply
+them in a Python program.
 
-Have you ever heard that, to master a skill, you primarily need to devote 10,000
-hours to practicing it? While practice is, in fact, really important, it seems
-that the "10,000 hours rule" in a
-[misinterpretation](https://www.goodlifeproject.com/podcast/anders-ericsson/) of
-the research of K. Anders Ericsson. So, what does help? Well, [Greg
-Wilson](https://third-bit.com/) writes in [*Teaching Tech
-Together*](https://teachtogether.tech/en/index.html) that "what actually works
-is doing similar but subtly different things, paying attention to what works and
-what doesn't, and then changing behavior in response to that feedback to get
-cumulatively better."
+Recognizing that you will need to be good at both software engineering and
+statistics can be overwhelming and ultimately lead you to wonder how you can
+feasibly excel in both areas. Along with focusing on the mastery of individual
+tasks that are part of a bigger operation, [Greg Wilson](https://third-bit.com/)
+suggests in [*Teaching Tech Together*](https://teachtogether.tech/en/index.html)
+that "what actually works is doing similar but subtly different things, paying
+attention to what works and what doesn't, and then changing behavior in response
+to that feedback to get cumulatively better."
 
-Specifically, to master the technical skills introduced on this site you need
-to participate in deliberate practice that "requires both a clear performance
-goal and immediate informative feedback".[^1] In his post entitled [Getting
+To master the technical skills introduced on this site you need to participate
+in deliberate practice that "requires both a clear performance goal and
+immediate informative feedback".[^1] In his post entitled [Getting
 Good](https://bphogan.com/2021/04/28/getting-good/), author [Brian
 Hogan](https://bphogan.com/) explained deliberate practice similarly when he
 wrote that if you have a skill you want to get better at you must "practice
 every day", "get feedback", and "do more than you watch and read". Building on
-the bullet point from [Teaching Tech
+the bullet points from [Teaching Tech
 Together](https://teachtogether.tech/en/index.html), these are the steps you
 should take when using deliberate practice to proactively learn new technical
 skills:

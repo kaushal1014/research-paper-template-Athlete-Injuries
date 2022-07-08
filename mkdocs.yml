@@ -2,6 +2,9 @@
 site_name: "Ready to Research"
 site_url: https://www.readytoresearch.com
 repo_url: https://github.com/ReadyResearchers/www.readytoresearch.com
+# Use any word, such as "Default" to ensure that
+# the copyright is rendered in the footer with a new partial
+copyright: Default
 
 # Definition of the theme
 theme:
@@ -10,9 +13,9 @@ theme:
   # Provide an overrides/ directory that contains a main.html file for customization
   custom_dir: overrides
   # Define the logo for the top left-hand corner of the screen and collapsible menu
-  logo: img/Ready-to-Research-R-Icon-Spot.svg
+  logo: img/main/ready-to-research-logo-inverted.svg
   # Define the favicon that displays in the tab of the browser
-  favicon: img/Ready-to-Research-R-Favicon-Spot.png
+  favicon: img/main/ready-to-research-favicon-inverted.png
   # Define the logo for the repository for the top right-hand corner of the screen
   icon:
       repo: fontawesome/brands/github
@@ -24,16 +27,14 @@ theme:
       code: IBM Plex Mono
   palette:
     # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: indigo
       accent: deep orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       primary: indigo
       accent: deep orange
       toggle:
@@ -112,7 +113,6 @@ markdown_extensions:
 # Install plugins
 plugins:
   - search
-  - mermaid2
   # Minify the HTML source code to support faster downloads
   - minify:
       minify_html: true
@@ -181,11 +181,18 @@ nav:
   - Technical Skills:
     - Introduction: technical-skills/introduction-technical-skills.md
     - Using VS Code: technical-skills/using-vscode.md
-    - Using Markdown: technical-skills/using-markdown.md
     - Using Terminal: technical-skills/using-terminal.md
     - Using GitHub: technical-skills/using-git.md
-    - Using Docker: technical-skills/using-docker.md
     - Python Programming: technical-skills/python-programming.md
+    - Using Markdown: technical-skills/using-markdown.md
+    - Using MkDocs: technical-skills/using-mkdocs.md
     - Python Packaging: technical-skills/python-packages.md
   - Research Skills:
     - Introduction: research-skills/introduction-research-skills.md
+    - Problem Domains: research-skills/problem-domains.md
+    - Knowledge Gaps: research-skills/knowledge-gaps.md
+    - Setting Goals: research-skills/setting-goals.md
+  - Paper Components:
+    - Introduction: paper-components/introduction-paper-components.md
+    - Paper Titles: paper-components/paper-titles.md
+    - Paper Abstracts: paper-components/paper-abstracts.md

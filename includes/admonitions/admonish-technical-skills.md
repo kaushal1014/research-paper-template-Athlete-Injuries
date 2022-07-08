@@ -1,7 +1,6 @@
 !!! quote inline end
 
-    "What actually works is doing similar but subtly different things, paying
-    attention to what works and what doesn't, and then changing behavior in
-    response to that feedback to get cumulatively better." [Greg
-    Wilson](https://third-bit.com/) in [*Teaching Tech
-    Together*](https://teachtogether.tech/en/index.html)
+    "A data scientist is someone who is better at statistics than any software
+    engineer and better at software engineering than any statistician." [ Josh
+    Wills](https://twitter.com/josh_wills) quoted in [*Day in the Life of a Data
+    Scientist*](https://www.boozallen.com/e/media/company-news/day-in-the-life-of-a-data-scientist.html)

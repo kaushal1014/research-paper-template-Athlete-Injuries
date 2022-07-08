@@ -11,6 +11,14 @@
     color: #FF6E42;
 }
 
+.md-copyright {
+    color: var(--md-footer-fg-color--light);
+}
+
+.md-copyright a {
+    text-decoration: underline;
+}
+
 .md-content {
   --md-typeset-a-color: #0288D1;
 }
@@ -18,6 +26,14 @@
 .md-typeset p {
     font-weight: 500;
     font-size: 0.85rem;
+}
+
+.md-typeset img {
+    margin-bottom: -.5em;
+}
+
+.md-typeset ul li {
+    margin-bottom: 0.25em;
 }
 
 .md-typeset pre {
@@ -41,8 +57,8 @@
 .md-typeset h2 {
     color: var(--md-default-fg-color);
     font-weight: 600;
-    font-size: 1.75rem;
-    margin-top: .75em;
+    font-size: 2rem;
+    margin-top: .5em;
     margin-bottom: .25em;
     line-height: 1.0;
 }
