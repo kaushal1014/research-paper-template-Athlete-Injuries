@@ -25,6 +25,10 @@ the principles that it introduces you will have embarked on an adventure to
 become a **proactive programmer** who "acts in anticipation of future problems,
 needs, or changes".[^1]
 
+Hello my name is Greg!
+
+I wish that I could eat dinner tonight with everyone in our class!
+
 *Okay, let's become proactive programmers so that we can put the PRO in
 programmer!*
 
