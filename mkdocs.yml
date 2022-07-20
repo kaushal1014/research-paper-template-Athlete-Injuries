@@ -163,4 +163,5 @@ extra_javascript:
 # Page tree that defines the navigation structure
 nav:
   - Home: index.md
+  - Abstract: abstract/index.md
   - Introduction: introduction/index.md
