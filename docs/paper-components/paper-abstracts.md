@@ -1,3 +1,0 @@
-# Paper Abstracts
-
-## Introduction
