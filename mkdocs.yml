@@ -1,7 +1,7 @@
 # Details about the site
 site_name: "Athele Injury Prediction"
 site_url: https://www.readytoresearch.com
-repo_url: https://github.com/ReadyResearchers/www.readytoresearch.com
+repo_url: https://github.com/kaushal1014/research-paper-template-Athlete-Injuries
 # Use any word, such as "Default" to ensure that
 # the copyright is rendered in the footer with a new partial
 copyright: Default
@@ -165,3 +165,7 @@ nav:
   - Home: index.md
   - Abstract: abstract/index.md
   - Introduction: introduction/index.md
+  - Background : background/index.md
+  - Methods : methods/index.md
+  - Results : results/index.md
+  - Discussions : discussion/index.md
