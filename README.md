@@ -1,6 +1,6 @@
 # Research Paper Template
 
-![](../../workflows/build/badge.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/1bb69b1e-36a5-4bff-8db5-920ad7209fab/deploy-status)](https://app.netlify.com/sites/readytoresearch/deploys)
+![](../../workflows/build/badge.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/c0299f71-e22f-44cd-be68-db3e292cba50/deploy-status)](https://app.netlify.com/sites/nfl-injury-analysis/deploys)
 
 A template for emerging researchers who want to write a short research paper in the field of data science.
 
