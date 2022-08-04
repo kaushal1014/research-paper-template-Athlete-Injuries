@@ -1,6 +1,6 @@
 # Details about the site
-site_name: "Athele Injury Prediction"
-site_url: https://www.readytoresearch.com
+site_name: "Machine learning in sports"
+site_url: https://www.kaushalpatil.com
 repo_url: https://github.com/kaushal1014/research-paper-template-Athlete-Injuries
 # Use any word, such as "Default" to ensure that
 # the copyright is rendered in the footer with a new partial
@@ -24,22 +24,12 @@ theme:
       # The main font used in header, footer, and all body text
       text: IBM Plex Sans
       # The font used in all of the source code samples
-      code: IBM Plex Mono
+      code: Calibri
   palette:
-    # Palette toggle for light mode
-    - scheme: default
-      primary: light blue
-      accent: red
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
+    # Palette for dark mode
     - scheme: slate
       primary: light blue
       accent: red
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
 
   # Enable features that are built-in to material for mkdocs
   features:
