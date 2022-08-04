@@ -28,15 +28,15 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: indigo
-      accent: deep orange
+      primary: light blue
+      accent: red
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
-      primary: indigo
-      accent: deep orange
+      primary: light blue
+      accent: red
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -139,16 +139,13 @@ extra:
   social:
     # GitHub organization
     - icon: fontawesome/brands/github
-      link: https://github.com/ReadyResearchers
-    # GitHub issue tracker
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/ReadyResearchers/www.readytoresearch.com/issues
+      link: https://github.com/kaushal1014/
     # GitHub discussions
-    - icon: fontawesome/solid/comments
-      link: https://github.com/ReadyResearchers/www.readytoresearch.com/discussions
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/kaushalppatil/
     # Discord server invitation (open publicly)
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/X69WenZqaB
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/Darkshafter69
 
 # Load the stylesheet that overrides parts of the material for mkdocs theme
 extra_css:

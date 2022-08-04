@@ -89,3 +89,16 @@
     letter-spacing: -0.01em;
     color: var(--md-default-fg-color);
 }
+
+:root > * {
+    --md-primary-fg-color:        #ee680f;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+  }
+
+  body {
+    background: rgb(66, 64, 63);
+    /* or, using CSS variables */
+    --md-default-bg-color: rgb(18, 247, 216);
+  }
+  
