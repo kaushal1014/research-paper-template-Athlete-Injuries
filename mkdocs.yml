@@ -70,7 +70,7 @@ markdown_extensions:
           generic: true
     # Display paragraph markers that exhibit as permalinks for section in a file
     - toc:
-        permalink: true
+        permalink: false
     # Highlight source code
     - codehilite
     - markdown.extensions.codehilite:
