@@ -152,7 +152,7 @@ nav:
   - Home: index.md
   - Abstract: abstract/index.md
   - Introduction: introduction/index.md
-  - Background : background/index.md
   - Methods : methods/index.md
   - Results : results/index.md
   - Discussions : discussion/index.md
+  - Background : background/index.md
