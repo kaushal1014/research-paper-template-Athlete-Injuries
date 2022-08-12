@@ -6,6 +6,10 @@ hide:
 
 # Introduction
 
+<p align="center">
+  <img src="https://github.com/kaushal1014/research-paper-template-Athlete-Injuries/blob/master/docs/img/intropic.png?raw=true" width="350" alt="accessibility text">
+</p>
+
 Artificial turf continues to alternate options that many players at the high school, intercollegiate, and professional levels practice and compete. There have been several studies and literature reviews to investigate the properties of artificial turf and their impact on juries along with injury patterns too. The overall rate of football injuries has been reported to be signiﬁcantly higher on artiﬁcial surfaces compared with natural grass [5–6]. It is increasingly clear that the playing surface is an important factor in injury incidences and mechanisms. 
 
 John Powell from the University of Iowa [1] was among the first to quantify the higher incidence of these injuries. He published a paper in 1992 which showed that professional football teams had more major knee injuries on artificial turf than compared on natural grass.
