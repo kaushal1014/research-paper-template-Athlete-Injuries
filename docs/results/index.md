@@ -42,3 +42,7 @@ We can see from Fig-4, that on the  Artificial surface, foot or lower limb injur
 </p>
 We can see from Fig-5, that on the Natural surface, the foot or lower limb injuries are NOT as high as on the Artificial surface. But there are Knee injuries on the Natural surface. Of course, these are not as high as foot injuries seen on synthetic surfaces. 
 So we can conclude from the above ML application that we often find lower limb or foot injuries being seen more often on Artificial surfaces compare to Natural surfaces. 
+
+<p align="center">
+  <img src="https://github.com/kaushal1014/research-paper-template-Athlete-Injuries/blob/master/docs/img/statspic1.png?raw=true" width="500" alt="accessibility text">
+</p>

@@ -6,7 +6,7 @@ hide:
 
 # Background and Related Work
 
-__*Here is the background desrciption of this research along with citations/refrences*__
+__*Here is the background desrciption of this research*__
 
 In recent times, NFL did conduct a competition to investigate the relationship between the playing surface and the injury and performance of National Football League (NFL) athletes and to examine factors that may contribute to lower extremity injuries. This was conducted on the Kaggle platform. NFL has shared all the data required for applying the Machine learning Technique in this case study. 
 

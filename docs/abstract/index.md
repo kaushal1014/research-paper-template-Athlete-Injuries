@@ -5,6 +5,9 @@ hide:
 ---
 
 # Abstract
+<p align="center">
+  <img src="https://github.com/kaushal1014/research-paper-template-Athlete-Injuries/blob/master/docs/img/intro.jpg?raw=true" width="800" alt="accessibility text">
+</p>
 
 Data about sports have long been the subject of research and analysis by sports scientists. Machine learning has been applied to many areas of science, health care, and finance industries, such as image detection, cancer detection, stock market prediction, and customer churn prediction. In some areas, such as sports, the effective use of machine learning has still large scope for improvement. The areas of improvement in mainly data collection in improving the accuracy of prediction & sports science/medicine. 
 
