@@ -11,6 +11,8 @@ hide:
 
 State the research questions:
 
-- **RQ1**:
-- **RQ2**:
+- **RQ1**: is there a correlation between playing surface Vs Player injury? 
+
+- **RQ2**: Is the injury on Synthetic more severe than the injury on the Natural surface?
+
 - **RQ3**:
