@@ -5,6 +5,7 @@ hide:
 ---
 
 # Methods
+***Here is the method and analysis link to the code repository***
 
 - [NFL player Injury Analysis in Jupyter Lite](https://machine-learning-meets-sports.netlify.app/live/lab/index.html)
 - [NFL player Injury Analysis in Google Colab](https://githubtocolab.com/kaushal1014/research-paper-template-Athlete-Injuries)
