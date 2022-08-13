@@ -15,4 +15,4 @@ State the research questions:
 
 - **RQ2**: Is the injury on Synthetic more severe than the injury on the Natural surface?
 
-- **RQ3**:
+- **RQ3**: What kind of Injury is seen in Synthetic Vs Natural surfaces?
