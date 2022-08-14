@@ -12,8 +12,12 @@ hide:
 
 State the research questions:
 
-- **RQ1**: is there a correlation between playing surface Vs Player injury? 
+- **RQ1**: is there a correlation between playing surface Vs Player injury ?  
 
-- **RQ2**: Is the injury on Synthetic more severe than the injury on the Natural surface?
+- **RQ2**: Is the injury on Synthetic more severe than the injury on the Natural surface ?
 
-- **RQ3**: What kind of Injury is seen in Synthetic Vs Natural surfaces?
+- **RQ3**: What kind of Injury is seen in Synthetic Vs Natural surfaces ?
+
+- **RQ4**: Where do the injuries occur in Synthetic Vs Natural surfaces ?
+
+- **RQ5**: Any variation in speed & distance between artificial Turf Vs Natural Turf ?
