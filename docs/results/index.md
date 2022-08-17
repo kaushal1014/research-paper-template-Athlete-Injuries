@@ -56,11 +56,13 @@ So we can conclude from the above ML application that we often find lower limb o
 # Answer to **RQ4**: Where do the injuries occur in Synthetic Vs Natural surfaces ?
 <p align="center">
   <img src="https://github.com/kaushal1014/research-paper-template-Athlete-Injuries/blob/master/files/data-science/NFL%20injuries/graphs/Location%20of%20Injuries%20on%20Synthetic%20Turf.png?raw=true" width="500" alt="accessibility text">
-  
+</p>
+<figcaption align="center" ><b>Fig6</b></figcaption>
 
+<p align="center">
   <img src="https://github.com/kaushal1014/research-paper-template-Athlete-Injuries/blob/master/files/data-science/NFL%20injuries/graphs/Location%20of%20Injuries%20on%20Natural%20Turf.png?raw=true" width="500" alt="accessibility text">
 </p>
-<figcaption ><b>Fig.6</b></figcaption> <figcaption align = "right"><l>Fig.7</l></figcaption>
+<figcaption align="center" ><b>Fig.7</b></figcaption> 
 
 It is evident from Fig-6, that the injuries on Synthetic turf, are more widely spread & across the location of the Turf too. In comparison to the Natural surface, the injuries are more concentrated in the center of the Turf. This could also be due to the speed that payers reach in the middle of turf. Usually, it is expected players reach a higher speed in the middle of the pitch. 
 It is important to mention one fact. Due to the limitation of the computer to analyze the data, limited numbers of samples were considered here. If the entire sample shared by NFL is considered, then the outcome can be more accurate & also may slightly vary too. 
