@@ -15,7 +15,7 @@ theme:
   # Define the logo for the top left-hand corner of the screen and collapsible menu
   logo: img/kaushal-logo.svg
   # Define the favicon that displays in the tab of the browser
-  favicon: img/main/kaushal-logo.png
+  favicon: img/kaushal-favicon.ico
   # Define the logo for the repository for the top right-hand corner of the screen
   icon:
       repo: fontawesome/brands/github
