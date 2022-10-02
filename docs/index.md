@@ -5,6 +5,9 @@ hide:
 ---
 
 # Machine learning meets sports: Predicting the injuries of NFL players due to variation in playing surface
+<p align="center">
+  <img src="https://github.com/kaushal1014/research-paper-template-Athlete-Injuries/blob/cc51cae26929128e7a3cf3d16cc236a7c6015aba/docs/img/kaushal.jpg?raw=true" width="500" alt="accessibility text">
+</p>
 
 Hello, my name is Kaushal,
 
@@ -14,3 +17,5 @@ Now that in the covid times, my competitive swimming career had temporarily been
 
 A 2-year consecutive state medalist in swimming at the 2018 and 2019 junior championships in Karnataka. In my swimming journey, I have endured injuries that have not only hindered my performance but also have kept me out of practice. To help the athlete community, I have decided to combine my two passions, computer science and love of sport, to help better understand the usage of Machine learning in sports.
 Guided and mentored by professor [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/)
+
+***[Research paper published on INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH & TECHNOLOGY (IJERT)](https://www.ijert.org/machine-learning-meets-sports)***
