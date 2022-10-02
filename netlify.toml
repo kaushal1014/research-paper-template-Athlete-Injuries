@@ -5,10 +5,9 @@
 [build]
 publish = "site"
 command = """
-restore_home_cache ".cache" "pip cache" &&
-restore_cwd_cache '.venv' 'python virtualenv' &&
-pip3 install -q poetry &&
+pip install -q poetry &&
 poetry config virtualenvs.in-project true &&
 poetry install -v &&
-mkdocs build -d site
+ENABLE_PDF_EXPORT=1 mkdocs build -d site &&
+jupyter lite build --output-dir site/live
 """
